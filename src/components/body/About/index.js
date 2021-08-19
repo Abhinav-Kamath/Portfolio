@@ -1,4 +1,5 @@
 import React from "react";
+import Socials from "../../common/socials";
 import "./about.css";
 function About() {
   return (
@@ -16,7 +17,9 @@ function About() {
           ></img>
         </div>
       </div>
-      <div className="about-bottom"></div>
+      <div className="about-bottom">
+        <Socials />
+      </div>
     </div>
   );
 }
