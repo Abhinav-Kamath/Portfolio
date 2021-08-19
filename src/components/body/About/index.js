@@ -3,7 +3,7 @@ import "./about.css";
 function About() {
   return (
     <div className="about">
-      <div className="above-top">
+      <div className="about-top">
         <div className="info">
           Hello there, I am <br />
           <span className="name">Abhinav H Kamath,</span>
@@ -16,7 +16,7 @@ function About() {
           ></img>
         </div>
       </div>
-      <div className="above-bottom"></div>
+      <div className="about-bottom"></div>
     </div>
   );
 }
