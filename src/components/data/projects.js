@@ -1,18 +1,18 @@
 export const projectData = [
   {
     id: 1,
-    title: "Random1",
+    title: "Quiz",
     about: "kjasbdjbsd",
-    tags: ["ReactJs", "Abc", "adasd", "asdasdasd"],
+    tags: ["Python", "Sockets"],
     demo: "jsjns",
     github: "sds",
     image: "jdndn",
   },
   {
     id: 2,
-    title: "Random1",
+    title: "Caching",
     about: "kjasbdjbsd",
-    tags: ["ReactJs", "Abc"],
+    tags: ["Python"],
     demo: "jsjns",
     github: "sds",
     image: "jdndn",

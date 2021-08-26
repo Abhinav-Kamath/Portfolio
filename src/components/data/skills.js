@@ -13,11 +13,23 @@ export const skillsData = [
     ],
   },
   {
-    type: "vhvhv",
+    type: "Languages",
     list: [
       {
-        name: "hbh",
-        icon: "",
+        name: "C++",
+        icon: <i class="devicon-cplusplus-plain colored"></i>,
+      },
+      {
+        name: "java",
+        icon: <i class="devicon-java-plain-wordmark colored"></i>,
+      },
+      {
+        name: "Python",
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+      {
+        name: "Javascript",
+        icon: <i class="devicon-javascript-plain colored"></i>,
       },
     ],
   },
