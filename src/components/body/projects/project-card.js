@@ -29,7 +29,11 @@ function ProjectCard({ project }) {
         </div>
       </div>
 
-      <img src={project.image} className="project-photo"></img>
+      <img
+        src={project.image}
+        alt="Placeholder for now, Sorry :)"
+        className="project-photo"
+      ></img>
     </div>
   );
 }

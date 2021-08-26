@@ -8,7 +8,7 @@
 }
 
 .picture {
-  height: 420px;
+  height: 400px;
 }
 
 .info {
@@ -27,6 +27,6 @@
     align-items: center;
   }
   .picture {
-    height: 200px;
+    height: 180px;
   }
 }
