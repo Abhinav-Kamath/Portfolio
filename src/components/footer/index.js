@@ -1,7 +1,11 @@
 import React from "react";
-
+import Separator from "../common/socials/sepator/separator";
 function Footer() {
-  return <div>this is footer</div>;
+  return (
+    <div>
+      <Separator />
+    </div>
+  );
 }
 
 export default Footer;
