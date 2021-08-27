@@ -31,7 +31,7 @@ function ProjectCard({ project }) {
 
       <img
         src={project.image}
-        alt="Placeholder for now, Sorry :)"
+        alt="Placeholder for now, no image, Sorry :)"
         className="project-photo"
       ></img>
     </div>
